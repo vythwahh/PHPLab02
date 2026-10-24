@@ -1,0 +1,3 @@
+.DS_Storegit init
+git add .
+git commit -m "Step 1: Initialize project structure and empty source files"
